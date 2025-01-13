@@ -1,0 +1,16 @@
+
+
+ a1.py | 0
+ a2.py | 0
+ a3.py | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 a1.py
+ create mode 100644 a2.py
+ create mode 100644 a3.py
+
+29473@sleep MINGW64 /e/git/01company/dbhot-2 (main)
+$ git push origin main
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/turbulence66/dbhot-2.git
+   9b107f1..1d2519f  main -> main
+  在公司编辑了a1，忘记推送... 
